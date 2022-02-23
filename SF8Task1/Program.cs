@@ -38,7 +38,6 @@ else
             {
                 Console.WriteLine("Папка давно не использовалась и будет удалена");
                 dir.Delete(true);
-                dir.Delete(true);
             }
         }
     }
